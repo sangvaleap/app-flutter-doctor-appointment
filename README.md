@@ -11,6 +11,8 @@
 - My Email: sangvaleap.vanny@gmail.com
 - UI/UX source: https://dribbble.com/kitket1212
 
+=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
+
 
 <img width="600" alt="Screen Shot 2021-12-16 at 3 38 07 PM" src="https://user-images.githubusercontent.com/86506519/146337288-9c6e2f67-fd9f-49eb-a03e-1f80c535ef4e.png">
 <img width="600" alt="Screen Shot 2021-12-16 at 3 38 36 PM" src="https://user-images.githubusercontent.com/86506519/146337310-35804239-b337-44fe-8cff-63ac377ce10e.png">

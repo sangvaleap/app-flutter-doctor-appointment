@@ -1,4 +1,4 @@
-# Doctor Appointment UI
+# Doctor Appointment App
 
 - Preview Video: https://youtu.be/X26IuQdqAQg
 - [My Twitter](https://twitter.com/sangvaleap)

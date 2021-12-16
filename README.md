@@ -2,7 +2,6 @@
 
 - Preview Video: https://youtu.be/X26IuQdqAQg
 - [My Twitter](https://twitter.com/sangvaleap)
-- [My Instagram](https://www.instagram.com/sangvaleap.v/)
 
 - [My Patreon](https://www.patreon.com/sangvaleap)
 - [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)

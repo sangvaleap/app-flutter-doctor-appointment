@@ -1,6 +1,6 @@
-# Doctor Appointment App
+# Doctor Appointment App - Flutter
 
-- Preview Video: https://youtu.be/X26IuQdqAQg
+- Preview Video: https://youtu.be/uOzahUxQM5w
 - [My Twitter](https://twitter.com/sangvaleap)
 
 - [My Patreon](https://www.patreon.com/sangvaleap)

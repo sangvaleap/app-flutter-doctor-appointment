@@ -1,16 +1,10 @@
-# Doctor Appointment App - Flutter
+# Appointment App - Flutter
 
-- Preview Video: https://youtu.be/uOzahUxQM5w
-- [My Twitter](https://twitter.com/sangvaleap)
 
-- [My Patreon](https://www.patreon.com/sangvaleap)
-- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
-- [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
 
-- My Email: sangvaleap.vanny@gmail.com
+- My Email: mitch@elegancewebsites.com
 - UI/UX source: https://dribbble.com/kitket1212
 
-=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
 
 
 <img width="600" alt="Screen Shot 2021-12-16 at 3 38 07 PM" src="https://user-images.githubusercontent.com/86506519/146337288-9c6e2f67-fd9f-49eb-a03e-1f80c535ef4e.png">

@@ -1,6 +1,8 @@
+// import 'package:doctor_app/Splash.dart';
 import 'package:doctor_app/pages/doctor_page.dart';
 import 'package:doctor_app/pages/doctor_profile_page.dart';
 import 'package:doctor_app/theme/colors.dart';
+import 'package:doctor_app/ui/apps/ecommerce/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'pages/home.dart';
 
@@ -13,11 +15,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: '2mi Coaching',
       theme: ThemeData(
         primaryColor: primary,
       ),
-      home: Home(),
+      home: SplashScreenPage(),
     );
   }
 }
